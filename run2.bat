@@ -1,2 +1,2 @@
-start cmd /c "python reg2.py COM15 data/data.csv data/debug.log"
-start cmd /c "python json_builder.py data/data.csv www/voltages.json"
+start cmd /c "python reg2.py COM13 data/data.csv data/debug.log"
+start cmd /c "python json_builder2.py data/data.csv www/voltages.json"
