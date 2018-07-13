@@ -21,3 +21,7 @@ If you don't have a real Metex multimeter, you can use a simulator for testing/d
 
 ## Listing available COM ports
 You can use `list_ports.bat` to list available COM ports.
+
+## Exemplary chart
+
+![Exemplary chart](chart_example.png)
